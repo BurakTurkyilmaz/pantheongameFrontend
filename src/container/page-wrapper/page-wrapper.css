@@ -1,0 +1,5 @@
+.page-wrapper {
+  height: 100vh;
+  display: flex;
+  background-color: #eef2f9;
+}

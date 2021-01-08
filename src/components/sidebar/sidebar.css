@@ -1,0 +1,32 @@
+.Sidebar {
+  min-height: 100vh;
+  height: 100%;
+  width: 100px;
+  background-color: #00c5ff;
+}
+.menuIcon {
+  width: 100%;
+  padding-left: 15px;
+}
+.logo {
+  padding-left: 10px;
+  margin-top: 20px;
+}
+.arrowForward {
+  padding-left: 10px;
+}
+.menuIconBackground {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 150px;
+  height: 100px;
+  background: rgb(255, 255, 255);
+  background: linear-gradient(
+    90deg,
+    rgba(255, 255, 255, 0) 0%,
+    rgba(255, 255, 255, 0.13489145658263302) 44%,
+    rgba(255, 255, 255, 0.3110819327731092) 62%,
+    rgba(255, 255, 255, 0.6) 100%
+  );
+}
